@@ -1,4 +1,4 @@
-const apiKey = ""; // Your API key
+const apiKey = "b9d53e1fbc8842b07064f7f70822a15e"; // Your API key
 let isCelsius = true; // Toggle between Celsius and Fahrenheit
 
 async function fetchWeather() {
